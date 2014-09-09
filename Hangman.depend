@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1383460108 source:c:\users\administrator\documents\codeblocks\hangman\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	<limits.h>
+
